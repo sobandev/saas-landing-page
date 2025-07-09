@@ -72,10 +72,9 @@ const Features = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
           className="text-center mb-12 sm:mb-16"
-        >
-          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 px-4 sm:px-0">
-            Everything you need to{' '}
-            <span className="text-primary">run your course</span>
+        <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-4 sm:mb-6 px-4 sm:px-0">
+            Why Creators Love{' '}
+            <span className="text-primary">LearnSphere</span>
           </h2>
           <p className="text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto px-4 sm:px-0">
             Our comprehensive platform provides all the tools you need to create, manage, and scale your online education business.
