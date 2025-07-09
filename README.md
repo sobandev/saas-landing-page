@@ -222,9 +222,8 @@ This project was developed by **Soban Usman**, a full-stack developer specializi
 ## 🤝 Connect With Me
 
 - **GitHub**: [@sobandev](https://github.com/sobandev)
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **LinkedIn**: [My Linkedin](www.linkedin.com/in/soban-usman)
+- **Email**: [sobanusman2020@gmail.com]
 
 ## 🌟 Project Highlights
 
