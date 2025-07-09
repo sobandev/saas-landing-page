@@ -1,15 +1,7 @@
 {
   "version": 2,
-  "name": "learnsphere-landing",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "build"
-      }
-    }
-  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
   "routes": [
     {
       "src": "/static/(.*)",
@@ -49,11 +41,8 @@
       ]
     }
   ],
-  "env": {
-    "NODE_VERSION": "18"
-  },
   "functions": {
-    "app/api/contact.js": {
+    "api/contact.js": {
       "maxDuration": 10
     }
   }
